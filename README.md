@@ -24,24 +24,7 @@ early-detection-alzheimers/
 - **ML Models:** SVM, XGBoost
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
 - **Outcome:** XGBoost model achieved the best performance
-
-## 📝 How to Use
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/lakshmi1202/early-detection-alzheimers.git
-    cd early-detection-alzheimers
-    ```
-
-2. Launch the notebook:
-    ```bash
-    jupyter notebook AD_prediction_model.ipynb
-    ```
-
-3. Install dependencies (optional):
-    ```bash
-    pip install -r requirements.txt
-    ```
+  
 
 ## 📚 Citation
 
